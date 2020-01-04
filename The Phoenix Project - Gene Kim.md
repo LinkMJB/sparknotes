@@ -144,8 +144,7 @@
   * 3: Efficiency and effectiveness of operations
 * P253 - COSO cube
 * P254 - Maintenance schedules as KPI for predicting behavior
-* P271 - Properly scoping security work against systems related to the control and process/date
-* S needing protection/security
+* P271 - Properly scoping security work against systems related to the control and process/dates needing protection/security
 * P275 - "The Bates Motel"/"Hotel California" of work
 * P276 - Repetition involving teamwork, creates trust and transparency
 * P286 - Keep work flowing one direction. Work should never move backward in the queue/be reworked. Consider pulling late resources in early, to define non-functional requirements.
