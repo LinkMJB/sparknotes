@@ -86,13 +86,12 @@
       * Horizontal alignment
 * P187
   * Self-deception impacts our entire worldview
-* P189
-  * Successful out of "the box" companies apply these mindset changing principals in 5 significant ways:
-    1. Hiring process, to screen applicant mindsets. Some make it required reading prior to interview (in-person)
-    2. Team building - required reading for team leads, and managers
-    3. Conflict resolution
-    4. Foundation for accountability and responsibility
-    5. Personal growth and development
+* P189: Successful out of "the box" companies apply these mindset changing principals in 5 significant ways:
+  1. Hiring process, to screen applicant mindsets. Some make it required reading prior to interview (in-person)
+  2. Team building - required reading for team leads, and managers
+  3. Conflict resolution
+  4. Foundation for accountability and responsibility
+  5. Personal growth and development
 * P194: Conflict resolution examples
   * Judicial mediation
   * Mitigating police brutality
