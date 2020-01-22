@@ -81,7 +81,7 @@
   * A company is a reflection of its employees
   * "In the box" companies don't have "out of the box" individuals
 * P184
-  * Arbinger Mindset Assessment
+  * [Arbinger Mindset Assessment](https://arbinger.com/MindsetWeb.html)
     * Individuals on average rate themselves 40% higher than coworkers, or the company
       * Horizontal alignment
 * P187
@@ -101,3 +101,4 @@
 * Additional reading:
   * Sequel: The Anatomy of Peace
   * The Outward Mindset
+  * [Arbinger Assessments](https://arbinger.com/assessment.html)
